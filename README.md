@@ -75,8 +75,8 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     062 | 📖 Gaussian Process Classification on Iris Dataset       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49140'>Start Lab</a>  |
 |     063 | 📖 Gaussian Process Classification                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49141'>Start Lab</a>  |
 |     064 | 📖 Gaussian Process Classification on XOR Dataset        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49142'>Start Lab</a>  |
-|     065 | 📖 Gaussian Process Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49146'>Start Lab</a>  |
-|     066 | 📖 Gaussian Process Regression                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49145'>Start Lab</a>  |
+|     065 | 📖 Nonlinear Predictive Modeling Using Gaussian Proce... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49146'>Start Lab</a>  |
+|     066 | 📖 Fit Gaussian Process Regression Model                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49145'>Start Lab</a>  |
 |     067 | 📖 Gaussian Process Regression: Kernels                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49148'>Start Lab</a>  |
 |     068 | 📖 Early Stopping of Gradient Boosting                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49150'>Start Lab</a>  |
 |     069 | 📖 Blind Source Separation                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49161'>Start Lab</a>  |
@@ -86,7 +86,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     073 | 📖 Simple 1D Kernel Density Estimation                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49175'>Start Lab</a>  |
 |     074 | 📖 Active Learning Withel Propagation                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49184'>Start Lab</a>  |
 |     075 | 📖 Lasso and Elastic Net                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49188'>Start Lab</a>  |
-|     076 | 📖 Linear and Quadratic Discriminant Analysis            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49193'>Start Lab</a>  |
+|     076 | 📖 Discriminant Analysis Classification Algorithms       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49193'>Start Lab</a>  |
 |     077 | 📖 Hierarchical Clustering With Scikit-Learn             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49198'>Start Lab</a>  |
 |     078 | 📖 Local Outlier Factor for Novelty Detection            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49200'>Start Lab</a>  |
 |     079 | 📖 Outlier Detection With LOF                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49201'>Start Lab</a>  |
@@ -112,7 +112,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     099 | 📖 Multi-Output Decision Tree Regression                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49322'>Start Lab</a>  |
 |     100 | 📖 Scikit-Learn Libsvm GUI                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49333'>Start Lab</a>  |
 |     101 | 📖 Wikipedia PageRank With Randomized SVD                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49334'>Start Lab</a>  |
-|     102 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71112'>Start Lab</a>  |
+|     102 | 📖 Nonlinear Regression with Isotonic                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71112'>Start Lab</a>  |
 |     103 | 📖 Neural Network Models                                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71113'>Start Lab</a>  |
 |     104 | 📖 Gaussian Mixture Models                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71114'>Start Lab</a>  |
 |     105 | 📖 Manifold Learning with Scikit-Learn                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71115'>Start Lab</a>  |
@@ -196,7 +196,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     183 | 📖 Plot Grid Search Digits                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49155'>Start Lab</a>  |
 |     184 | 📖 Decision Trees on Iris Dataset                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49167'>Start Lab</a>  |
 |     185 | 📖 Anomaly Detection With Isolation Forest               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49171'>Start Lab</a>  |
-|     186 | 📖 Isotonic Regression with Scikit-Learn                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49172'>Start Lab</a>  |
+|     186 | 📖 Nonparametric Isotonic Regression with Scikit-Lear... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49172'>Start Lab</a>  |
 |     187 | 📖 Exploring Johnson-Lindenstrauss Lemma with Random ... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49174'>Start Lab</a>  |
 |     188 | 📖 Principal Component Analysis with Kernel PCA          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49177'>Start Lab</a>  |
 |     189 | 📖 Plot Kernel Ridge Regression                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49178'>Start Lab</a>  |
@@ -268,9 +268,9 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     255 | 📖 Ensemble Methods Exploration with Scikit-Learn        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71108'>Start Lab</a>  |
 |     256 | 📖 Feature Selection with Scikit-Learn                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71110'>Start Lab</a>  |
 |     257 | 📖 Evaluating Machine Learning Model Quality             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71124'>Start Lab</a>  |
-|     258 | 📖 Deploying a Simple TensorFlow Model                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
-|     259 | 📖 Classifying Iris Using SVM                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
-|     260 | 📖 Early Stopping for Machine Learning                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300214'>Start Lab</a> |
+|     258 | 📖 Deploying a Simple TensorFlow Model (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298840'>Start Lab</a> |
+|     259 | 📖 Classifying Iris Using SVM (Lab)                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300195'>Start Lab</a> |
+|     260 | 📖 Early Stopping for Machine Learning (Lab)             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300214'>Start Lab</a> |
 |     261 | 📖 Plot Digits Pipe                                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49112'>Start Lab</a>  |
 |     262 | 📖 Scikit-Learn Estimators and Pipelines                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49120'>Start Lab</a>  |
 |     263 | 📖 Feature Transformations With Ensembles of Trees       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49128'>Start Lab</a>  |
@@ -287,7 +287,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     274 | 📖 Effect of Varying Threshold for Self-Training         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49280'>Start Lab</a>  |
 |     275 | 📖 MNIST Multinomial Logistic Regression                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49297'>Start Lab</a>  |
 |     276 | 📖 Iris Flower Classification using Voting Classifier    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49328'>Start Lab</a>  |
-|     277 | 📖 Encoding Label to One-Hot                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300216'>Start Lab</a> |
+|     277 | 📖 Encoding Label to One-Hot (Lab)                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300216'>Start Lab</a> |
 |     278 | 📖 Approximate Nearest Neighbors in TSNE                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49054'>Start Lab</a>  |
 |     279 | 📖 Creating Visualizations With Display Objects          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49116'>Start Lab</a>  |
 |     280 | 📖 Face Recognition With Eigenfaces and SVMs             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49123'>Start Lab</a>  |
@@ -307,7 +307,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     294 | 📖 Dimensionality Reduction With Pipeline and GridSea... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49092'>Start Lab</a>  |
 |     295 | 📖 Detection Error Tradeoff Curve                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49103'>Start Lab</a>  |
 |     296 | 📖 Precision-Recall Metric for Imbalanced Classificat... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49249'>Start Lab</a>  |
-|     297 | 📖 Data Cleaning and Purification with Python            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300209'>Start Lab</a> |
+|     297 | 📖 Data Cleaning and Purification with Python (Lab)      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300209'>Start Lab</a> |
 |     298 | 📖 Column Transformer With Mixed Types                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49086'>Start Lab</a>  |
 |     299 | 📖 Digit Classification With RBM Features                | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49259'>Start Lab</a>  |
 |     300 | 📖 Semi-Supervised Text Classification                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49281'>Start Lab</a>  |
@@ -320,7 +320,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     307 | 📖 Feature Scaling in Machine Learning                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49277'>Start Lab</a>  |
 |     308 | 📖 Pipelines and Composite Estimators                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/71128'>Start Lab</a>  |
 |     309 | 📖 Scikit-Learn Classifier Comparison                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49080'>Start Lab</a>  |
-|     310 | 📖 Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298849'>Start Lab</a> |
+|     310 | 📖 Deploying MobileNet With TensorFlow.js and Flask (... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298849'>Start Lab</a> |
 
 ## More
 
