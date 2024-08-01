@@ -91,7 +91,7 @@ This course contains lots of labs for Machine Learning, each lab is a small Mach
 |     078 | 📖 Local Outlier Factor for Novelty Detection            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49200'>Start Lab</a> |
 |     079 | 📖 Outlier Detection With LOF                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49201'>Start Lab</a> |
 |     080 | 📖 Logistic Regression Model                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49205'>Start Lab</a> |
-|     081 | 📖 Regularization Path of L1- Logistic Regression        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49204'>Start Lab</a> |
+|     081 | 📖 Regularization Path of L1-Logistic Regression         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49204'>Start Lab</a> |
 |     082 | 📖 Comparison of Covariance Estimators                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49206'>Start Lab</a> |
 |     083 | 📖 Robust Covariance Estimation and Mahalanobis Dista... | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49207'>Start Lab</a> |
 |     084 | 📖 Manifold Learning on Spherical Data                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/49208'>Start Lab</a> |
