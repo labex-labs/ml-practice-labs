@@ -1,6 +1,6 @@
 # Machine Learning Practice Labs
 
-[![Machine Learning Practice Labs](https://cover-creator.appbot.io/ml-practice-labs.png)](https://labex.io/courses/ml-practice-labs)
+[![Machine Learning Practice Labs](https://cover-creator.labex.io/ml-practice-labs.png)](https://labex.io/courses/ml-practice-labs)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/ml-practice-labs)
 
@@ -15,7 +15,7 @@ LabEx is an interactive, hands-on learning platform dedicated to coding and tech
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict “Learn by Doing” approach with exclusive hands-on labs and no videos.
+- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
 - Interactive online environments within the browser, with automated step-by-step checks.
 - A structured content organization with the Skill Tree based learning system.
 - A growing learning resource of 30 Skill Trees and over 6,000 Labs.
@@ -25,8 +25,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                                    | Difficulty   | Practice                                                                                                                                     |
-|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                     | Difficulty   | Practice                                                                                                                                     |
+|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
 |     001 | 📖 Adjusting for Chance in Clustering Performance Eva... | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-adjusting-for-chance-in-clustering-performance-evaluation-49059'>Start Lab</a>        |
 |     002 | 📖 Probability Calibration of Classifiers                | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-probability-calibration-of-classifiers-49075'>Start Lab</a>                           |
 |     003 | 📖 Plot Causal Interpretation                            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/ml-plot-causal-interpretation-49076'>Start Lab</a>                                       |
